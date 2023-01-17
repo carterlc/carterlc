@@ -1,7 +1,7 @@
 # Hello World! 👋
 
 ## My name is Carter :video_game: :poodle:  
-Pronouns  He/Him :smile:  
+####Pronouns  He/Him :smile:  
 Im an inspiring web developer studying Interactive Design and Technology @saskpolytechnic. I enjoy creating interactive web projects and playing with my dog. I am a new github user and I hope to populate this account with cool new code repositorys that I can share with you all!
 
 ### Two truths and a lie
