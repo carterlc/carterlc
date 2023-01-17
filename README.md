@@ -15,8 +15,8 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 ## My name is Carter :video_game:
-Pronouns  He/Him :smile:
-Im an inspiring web developer studying Interactive Design and Technology Student @saskpolytechnic. I enjoy creating interactive web projects and playing with my dog.
+Pronouns  He/Him :smile: 
+Im an inspiring web developer studying Interactive Design and Technology @saskpolytechnic. I enjoy creating interactive web projects and playing with my dog.
 
 ### Two truths and a lie
 1. My name is Carter
@@ -31,3 +31,7 @@ Im an inspiring web developer studying Interactive Design and Technology Student
 - JSON
 - XML
 - Markdown
+
+### Contact me @
+- carterlc@live.ca :mailbox: 
+- carterlc.ca :computer: 
