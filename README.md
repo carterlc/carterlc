@@ -13,7 +13,7 @@ Im an inspiring web developer studying Interactive Design and Technology @saskpo
 3. Game of thrones is the best show of all time
 
 ### Languages I am familiar with
-- HTML ![HTML](https://img.shields.io/badge/-HTML-000?&logo=HTML)
+- HTML
 - CSS
 - ![JavaScript](https://img.shields.io/badge/-JavaScript-000?&logo=JavaScript)
 - PHP
