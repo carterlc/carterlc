@@ -15,8 +15,8 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 ## My name is Carter :video_game:
-Pronouns  He/Him :smile: 
-Im an inspiring web developer studying Interactive Design and Technology @saskpolytechnic. I enjoy creating interactive web projects and playing with my dog.
+Pronouns  He/Him :smile:  
+Im an inspiring web developer studying Interactive Design and Technology @saskpolytechnic. I enjoy creating interactive web projects and playing with my dog. I am a new github user and I hope to populate this account with cool new code repositorys that I can share with you all!
 
 ### Two truths and a lie
 1. My name is Carter
@@ -26,12 +26,12 @@ Im an inspiring web developer studying Interactive Design and Technology @saskpo
 ### Languages I am familiar with
 - HTML
 - CSS
-- JavaScript
+- ![JavaScript](https://img.shields.io/badge/-JavaScript-000?&logo=JavaScript)
 - PHP
 - JSON
 - XML
 - Markdown
 
 ### Contact me @
-- carterlc@live.ca :mailbox: 
-- carterlc.ca :computer: 
+carterlc@live.ca :mailbox:  
+carterlc.ca :computer:  
