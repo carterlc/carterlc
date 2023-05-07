@@ -1,23 +1,24 @@
-# Hello World! 👋
+# Hello there, I'm Carter Clifford! 👋
 
-## My name is Carter :video_game: :poodle:  
-Pronouns:  He/Him :smile:  
-Im an inspiring web developer studying Interactive Design and Technology @saskpolytechnic. I enjoy creating interactive web projects and playing with my dog. I am a new github user and I hope to populate this account with cool new code repositorys that I can share with you all!
+Welcome to my little corner of the internet! I'm a recent grad from Saskpolytech's Interactive Design and Technology program, and I've got a serious passion for coding, hockey, and video games.
 
-### Two truths and a lie
-1. My name is Carter
-2. I have a dog name Berkley
-3. Game of thrones is the best show of all time
+## What I'm Up To 💻
 
-### Languages I am familiar with
-- HTML
-- CSS
-- ![JavaScript](https://img.shields.io/badge/-JavaScript-000?&logo=JavaScript)
-- PHP
-- JSON
-- XML
-- Markdown
+I'm currently on the hunt for my dream job as a front-end developer, but in the meantime I'm keeping myself busy by working on some personal coding projects. Currently, im trying to further understand the React library!
 
-### Contact me @
-carterlc@live.ca :mailbox:  
-carterlc.ca :computer:  
+## What I Know 🧠
+
+I've got experience with all sorts of web development tools and technologies, including:
+
+- HTML & CSS (of course)
+- JavaScript (With a touch of jQuery, too)
+- PHP (For WordPress plugins)
+- React (My fav library)
+- Markdown (for all my fancy README needs)
+- Git (because version control is life)
+- mySQL (for all my database-y needs)
+- Bootstrap (when I'm feeling lazy)
+
+## Let's Connect! 🤝
+
+I'm always on the lookout for new coding buddies, hockey fans, or fellow gamers to chat with. Feel free to reach out to me on [LinkedIn](https://www.linkedin.com/in/carterlc/), or visit my personal [Website](https://carterlc.ca/).
